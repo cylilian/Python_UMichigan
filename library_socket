@@ -1,0 +1,4 @@
+import socket
+#like file handle, fopen
+my sock=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+mysock.connect(('www.py4inf.com',80))
