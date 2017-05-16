@@ -1,1 +1,5 @@
 You can use either single or double quotes on string
+a definite loop using a for statement is much more elegant
+fruit="banana"
+for letter in fruit
+    print letter
