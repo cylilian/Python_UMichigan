@@ -1,2 +1,5 @@
 fhand=open('mbox.txt')
 http://stackoverflow.com/questions/5137497/find-current-directory-and-files-directory
+the newline character \n, one character, not two
+stuff="Hello\nWorld"
+print stuff
