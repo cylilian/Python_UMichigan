@@ -1,7 +1,11 @@
-fhand=open('mbox.txt')
-for line in fhand
-    print line
 http://stackoverflow.com/questions/5137497/find-current-directory-and-files-directory
+fhand=open('mbox.txt')
+for line in fhand:(colon is needed in new python)
+    if line.startwith('From'):
+    print line
 the newline character \n, one character, not two
 stuff="Hello\nWorld"
 print stuff
+print statement adds a new line character
+line=line.rstrip()
+new line character is counted as white space
