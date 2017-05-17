@@ -1,3 +1,4 @@
+explore use of "continue", "try and except" in python
 http://stackoverflow.com/questions/5137497/find-current-directory-and-files-directory
 fhand=open('mbox.txt')
 for line in fhand:(colon is needed in new python)
